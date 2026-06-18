@@ -7,12 +7,10 @@ Project description paragraph...
 
 ## Project Screenshots
 
-### Menu Interface
-![Aurora Bites Pro Menu Interface](./menu_item.png)
-
 ### Manager Dashboard
 ![Aurora Bites Pro Manager Dashboard](./dashboard.png)
----
+### Menu Interface
+![Aurora Bites Pro Menu Interface](./menu_item.png)
 
 ## Main Features
 

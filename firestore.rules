@@ -1,0 +1,20 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /menu/{itemId} {
+      allow read: if true;
+      allow write: if true; // Demo only. Use Firebase Auth before production.
+    }
+
+    match /orders/{orderId} {
+      allow create: if true;
+      allow read, update, delete: if true; // Demo only. Use manager auth before production.
+    }
+
+    match /reservations/{reservationId} {
+      allow create: if true;
+      allow read, update, delete: if true; // Demo only. Use manager auth before production.
+    }
+  }
+}

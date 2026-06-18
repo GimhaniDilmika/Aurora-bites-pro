@@ -3,7 +3,15 @@
 A premium modern restaurant web application built with **React, Vite, Firebase Firestore, Motion animations, Recharts, and responsive CSS**.
 
 This version is upgraded from a simple restaurant website into a more powerful internship showcase project with many food items, online ordering, demo payment flow, order tracking, table reservation, coupons, favorites, and a real-time manager dashboard.
+Project description paragraph...
 
+## Project Screenshots
+
+### Menu Interface
+![Aurora Bites Pro Menu Interface](./menu_item.png)
+
+### Manager Dashboard
+![Aurora Bites Pro Manager Dashboard](./dashboard.png)
 ---
 
 ## Main Features

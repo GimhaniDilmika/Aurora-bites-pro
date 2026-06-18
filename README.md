@@ -8,7 +8,7 @@ Project description paragraph...
 ## Project Screenshots
 
 ### Manager Dashboard
-![Aurora Bites Pro Manager Dashboard](./dashboard.png)
+![Aurora Bites Pro Manager Dashboard](./dashbord.png)
 ### Menu Interface
 ![Aurora Bites Pro Menu Interface](./menu_item.png)
 

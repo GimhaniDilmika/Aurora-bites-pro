@@ -36,25 +36,8 @@ export const menuSeed = [
     "popular": true,
     "veg": false
   },
-  {
-    "id": "crispy-chicken-burger",
-    "name": "Crispy Chicken Burger",
-    "category": "Burgers",
-    "price": 2300,
-    "rating": 4.6,
-    "prepMinutes": 15,
-    "available": true,
-    "image": "https://images.unsplash.com/photo-1606755962773-d324e2dabd13?auto=format&fit=crop&w=900&q=80",
-    "description": "Golden fried chicken, lettuce, slaw, spicy mayo, and soft sesame bun.",
-    "tags": [
-      "Crispy",
-      "Spicy"
-    ],
-    "calories": 361,
-    "spiceLevel": "Mild",
-    "popular": false,
-    "veg": false
-  },
+
+ 
   {
     "id": "mushroom-swiss-burger",
     "name": "Mushroom Swiss Burger",
@@ -1085,42 +1068,88 @@ export const menuSeed = [
     "popular": true,
     "veg": false
   },
-  {
-    "id": "garlic-bread-basket",
-    "name": "Garlic Bread Basket",
-    "category": "Sides",
-    "price": 950,
-    "rating": 4.7,
-    "prepMinutes": 18,
-    "available": true,
-    "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?auto=format&fit=crop&w=900&q=80",
-    "description": "Toasted garlic bread with herb butter and cheese.",
-    "tags": [
-      "Snack"
-    ],
-    "calories": 520,
-    "spiceLevel": "Mild",
-    "popular": true,
-    "veg": false
-  },
-  {
-    "id": "crispy-onion-rings",
-    "name": "Crispy Onion Rings",
-    "category": "Sides",
-    "price": 1200,
-    "rating": 4.8,
-    "prepMinutes": 21,
-    "available": true,
-    "image": "https://images.unsplash.com/photo-1639024471283-03518883512d?auto=format&fit=crop&w=900&q=80",
-    "description": "Golden onion rings with smoky dip.",
-    "tags": [
-      "Crispy"
-    ],
-    "calories": 557,
-    "spiceLevel": "Medium",
-    "popular": false,
-    "veg": false
-  },
+ {
+  "id": "chicken-biryani",
+  "name": "Chicken Biryani",
+  "category": "Rice Bowls",
+  "price": 2400,
+  "rating": 4.8,
+  "prepMinutes": 25,
+  "available": true,
+  "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=900&q=80",
+  "description": "Aromatic basmati rice cooked with spiced chicken, herbs, boiled egg, and raita.",
+  "tags": ["Popular", "Spicy"],
+  "calories": 720,
+  "spiceLevel": "Hot",
+  "popular": true,
+  "veg": false
+},
+{
+  "id": "cheese-kottu",
+  "name": "Cheese Kottu",
+  "category": "Sides",
+  "price": 1850,
+  "rating": 4.7,
+  "prepMinutes": 18,
+  "available": true,
+  "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=900&q=80",
+  "description": "Sri Lankan style kottu mixed with vegetables, egg, melted cheese, and spicy gravy.",
+  "tags": ["Local", "Cheesy"],
+  "calories": 650,
+  "spiceLevel": "Medium",
+  "popular": true,
+  "veg": false
+},
+{
+  "id": "club-sandwich",
+  "name": "Club Sandwich",
+  "category": "Breakfast",
+  "price": 1650,
+  "rating": 4.6,
+  "prepMinutes": 14,
+  "available": true,
+  "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=900&q=80",
+  "description": "Triple-layer sandwich with grilled chicken, egg, lettuce, tomato, cheese, and mayo.",
+  "tags": ["Fast", "Snack"],
+  "calories": 520,
+  "spiceLevel": "Mild",
+  "popular": false,
+  "veg": false
+},
+{
+  "id": "chocolate-donut",
+  "name": "Chocolate Donut",
+  "category": "Desserts",
+  "price": 850,
+  "rating": 4.5,
+  "prepMinutes": 8,
+  "available": true,
+  "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=900&q=80",
+  "description": "Soft donut covered with rich chocolate glaze and colorful sprinkles.",
+  "tags": ["Sweet", "Snack"],
+  "calories": 390,
+  "spiceLevel": "Mild",
+  "popular": false,
+  "veg": true
+},
+{
+  "id": "oreo-milkshake",
+  "name": "Oreo Milkshake",
+  "category": "Drinks",
+  "price": 1350,
+  "rating": 4.9,
+  "prepMinutes": 7,
+  "available": true,
+  "image": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=900&q=80",
+  "description": "Creamy milkshake blended with Oreo cookies, vanilla ice cream, and whipped cream.",
+  "tags": ["Cold", "Sweet"],
+  "calories": 560,
+  "spiceLevel": "Mild",
+  "popular": true,
+  "veg": true
+},
+  
+
   {
     "id": "chicken-wings",
     "name": "Chicken Wings",

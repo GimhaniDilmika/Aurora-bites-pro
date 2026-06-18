@@ -157,35 +157,7 @@ STUDENT15
 FREESHIP
 ```
 
----
 
-## Suggested LinkedIn Post
-
-🚀 Task 3 Completed – Future Interns Full Stack Web Development Internship
-
-I’m excited to share my upgraded project: **Aurora Bites Pro — Smart Restaurant Website & Real-Time Manager Dashboard**.
-
-This is a modern restaurant web application built using **React, Vite, Firebase Firestore, Motion animations, and Recharts**. The project includes a premium customer-facing website, 50+ food items, smart cart, demo online payment flow, coupon system, table reservation, order tracking, and a real-time manager dashboard.
-
-✨ Key Features:
-🍽️ 50+ interactive food menu items  
-🛒 Smart cart with live total calculation  
-🎟️ Promo code and discount system  
-💳 Demo online payment checkout  
-📦 Online order placement  
-🔍 Order tracking by order code  
-🪑 Table reservation system  
-📊 Real-time manager dashboard  
-📈 Revenue and category analytics  
-🍱 Menu add/update/delete controls  
-📱 Mobile responsive design  
-⚡ Smooth modern animations  
-
-This project helped me improve my skills in React component architecture, Firebase integration, responsive UI design, real-time CRUD operations, dashboard development, and modern frontend development.
-
-Grateful to Future Interns for this valuable learning opportunity.
-
-#FutureInterns #ReactJS #Firebase #WebDevelopment #FullStackDevelopment #FrontendDevelopment #JavaScript #Vite #Internship #ProjectShowcase #GitHub
 
 ---
 

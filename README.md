@@ -1,4 +1,4 @@
-# Aurora Bites Pro — Smart Restaurant Website & Manager Dashboard
+# Aurora Bites Pro-Smart Restaurant Website & Manager Dashboard
 
 A premium modern restaurant web application built with **React, Vite, Firebase Firestore, Motion animations, Recharts, and responsive CSS**.
 

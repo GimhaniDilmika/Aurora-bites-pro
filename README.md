@@ -4,6 +4,10 @@ A premium modern restaurant web application built with **React, Vite, Firebase F
 
 This version is upgraded from a simple restaurant website into a more powerful internship showcase project with many food items, online ordering, demo payment flow, order tracking, table reservation, coupons, favorites, and a real-time manager dashboard.
 Project description paragraph...
+## Live Demo
+
+🔗 **Live Demo:** https://aurora-bites-pro.vercel.app
+
 
 ## Project Screenshots
 
